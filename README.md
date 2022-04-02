@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Html-Css-Js,reactJs,nodeJs and Data Sciences projects
 - 📫 How to reach me jaatcodes@gmail.com
 
-## Hey, This is JaatCodes  👋
+# Hey, This is <i>JaatCodes</i>  👋
 Passionate about Web Development, I have learnt how to develop a web application using MERN stack. I also have a knack for solving problems using C++. I am an upcoming CS Engineer
 
 <!-- 
@@ -13,6 +13,7 @@ Passionate about Web Development, I have learnt how to develop a web application
 #### - 🔭 Projects I have worked/working on..
 
   - [NoteApp](#)
+z
   -->
  
 ## Skills
